@@ -1,0 +1,39 @@
+/*  ---------------------------------------------------------------------------
+ *  Author     : Ali A. Kingravi
+ *	Website    : www.alikingravi.com
+ *  ---------------------------------------------------------------------------*/
+
+*{margin: 0;padding: 0;}
+/* MAIN STYLES
+-------------------------------------------------------------- */
+html, body {height: 100%;}
+img {max-width: 100%;}
+h1,h1,h2,h3,h4,h5,p{font-family: 'Droid Serif', sans-serif;color: #A2A0A0;}
+h1{font-size: 4em;}
+h2{font-size: 1.6em;}
+hr{border: 1px solid #d9d9d9;}
+
+/* Helper Classes
+-------------------------------------------------------------- */
+.red{color: #ff0000;}
+.orange{color: #FF7400;}
+.grey{color: #FFFFFF;}
+.yellow{color: #fcff00;}
+.lime{color: #4eff00;}
+.blue{color: #00fff0;}
+.purple{color: #fd33de;}
+.green{color: #0ca805;}
+.error{color: red;}
+
+/* ------------------------------------------------------------------------ */
+/* HOME PAGE */
+/* ------------------------------------------------------------------------ */
+
+.student-form{
+	margin-top: 40px;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}
